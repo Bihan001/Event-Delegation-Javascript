@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+#container {
+  background-color: #dddddd;
+  padding: 1rem;
+}
+
+.todo {
+  padding: 1rem;
+  border: 1px solid red;
+  margin: 1rem;
+}
